@@ -1,13 +1,8 @@
 <!-- Profile Heading with Dark Theme Colors -->
 <div style="background-color:#0d1117; padding: 20px; border-radius: 10px; color: white;">
   
-  <h1 align="center" style="color: #58a6ff;">Hi 👋, I'm Danidu Pramuditha</h1> 
-  <h3 align="center" style="color: #c9d1d9;">---|--> Full-Stack Developer <--|---</h3>
-
-  <!-- Profile Views -->
-  <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=danidu2000&label=Profile%20views&color=0e75b6&style=flat" alt="danidu2000" />
-  </p>
+  <h1 align="center" style="color: #58a6ff;">Hi <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, I'm Danidu Pramuditha</h1> 
+  <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73D3D&width=435&lines=---%7C--%3E+Full-Stack+Developer+%3C--%7C---" alt="Typing SVG" /></a></h3>
 
   <!-- GitHub Profile Trophies, Centered -->
   <p align="center"> 
@@ -15,16 +10,17 @@
       <img src="https://github-profile-trophy.vercel.app/?username=danidu2000&theme=onedark" alt="danidu2000" />
     </a> 
   </p>
-
+ <hr>
   <!-- Connect with Me Section -->
   <h3 align="center" style="color: #58a6ff;">Connect with Me:</h3>
   <p align="center">
-    <!-- Add social icons, email, or other links here -->
+    <p align="center"><strong><a href="danidupramuditha2000@gmail.com">danidupramuditha2000@gmail.com</a></strong></p>
   </p>
-
+ <hr>
   <!-- Languages and Tools Section with Dark Theme -->
   <h3 align="center" style="color: #58a6ff;">Languages and Tools:</h3>
-  <p align="center">
+  <div style="d-flex width=100%">
+     <p align="center">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="filter: invert(1);" />
     </a> 
@@ -56,7 +52,9 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="filter: invert(1);" />
     </a>
   </p>
-
+  </div>
+ 
+ <hr>
   <!-- GitHub Stats with Dark Theme -->
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danidu2000&show_icons=true&locale=en&layout=compact&theme=dark" alt="danidu2000" />
@@ -68,7 +66,15 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=danidu2000&theme=dark" alt="danidu2000" />
   </p>
 
+ <hr>
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+ <hr>
+
 </div>
+
 
 
 

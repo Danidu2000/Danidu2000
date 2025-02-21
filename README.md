@@ -14,7 +14,7 @@
   <!-- Connect with Me Section -->
   <h3 align="center" style="color: #58a6ff;">Connect with Me:</h3>
   <p align="center">
-    <p align="center"><strong><a href="danidupramuditha2000@gmail.com">danidupramuditha2000@gmail.com</a></strong></p>
+    <p align="center"><strong><a href="danidupramuditha2000@gmail.com">danidupramuditha@gmail.com</a></strong></p>
   </p>
  <hr>
   <!-- Languages and Tools Section with Dark Theme -->
